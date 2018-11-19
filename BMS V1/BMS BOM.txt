@@ -1,0 +1,3 @@
+Partlist exported from /Users/arthur/OneDrive/Documents/Projets/eagle/BMS Club Robot/BMS Schematic.sch at 28/12/2017 13:47
+
+Qty Value               Device                                          Package              Parts                                                                  Description                                          DATASHEET                                     DIGIKEY     ELEMENT14 MANUFACTURER_PART_NUMBER MF MPN                    OC_FARNELL OC_NEWARK OTHER PROD_ID     SPICEPREFIX TP_SIGNAL_NAME URL                                                                                            VALUE           VENDOR           
