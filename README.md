@@ -8,4 +8,9 @@ Battery Management System based on bq78350R1 and bq79620 - Designed for 3S LiPo 
 - Version 1.1 removes the temperature sensor connector, has a smaller footprint and add a SMB connector for the EV2400 which is the development module necessary to interface the BMS with bqStudio on PC.
 
 ## TODO
-Reduce footprint even further / Change FET control to high-side / Look for alternatives to the atmega to get battery status
+- Reduce footprint even further
+- Change FET control to high-side
+- Look for alternatives to the atmega to get battery status
+- Use right-angle connectors instead of straight ones
+- Better protect SMB port
+- Use XT90 Connectors instead of Dean ?
