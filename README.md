@@ -10,7 +10,7 @@ Battery Management System based on bq78350R1 and bq79620 - Designed for 3S LiPo 
 ## TODO
 - Reduce footprint even further
 - Change FET control to high-side
-- Look for alternatives to the atmega to get battery status
+- Look for alternatives to the atmega to get battery status (maybe remove it or put the 5V regulator after the protection)
 - Use right-angle connectors instead of straight ones
 - Better protect SMB port
 - Use XT90 Connectors instead of Dean ?
